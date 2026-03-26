@@ -1,0 +1,6 @@
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/rashmikaNavod/FileShare-Service-User.git
+[submodule "file-service"]
+	path = file-service
+	url = https://github.com/rashmikaNavod/FileShare-Service-File.git
