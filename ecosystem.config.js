@@ -2,7 +2,7 @@ module.exports = {
   apps: [
     {
       name: "cloud-sql-auth-proxy",
-      script: "./cloud-sql-proxy project-dcd7ebfa-287a-4be7-9af:asia-southeast1:postgres-db-fileshre --private-ip",
+      script: "./cloud-sql-proxy project-dcd7ebfa-287a-4be7-9af:asia-southeast1:postgres-vm-fileshare --private-ip",
       log_file: "./logs/cloud-sql-proxy.log"
     },
     {
